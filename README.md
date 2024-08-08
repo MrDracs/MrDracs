@@ -28,7 +28,7 @@
 ## 🏆 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/MrDracs?ext=activity"/>
+<img src="/assets/Swish2.gif" width="20%" align="bottom"><img src="https://leetcard.jacoblin.cool/MrDracs?ext=activity" width="60%"/><img src="/assets/Swish2flip.gif" align="bottom" width="20%">
 </p>
 
 
