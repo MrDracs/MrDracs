@@ -1,4 +1,4 @@
-# <img src="/assets/potato.gif" width="50px" align="bottom"> Developer  with an Entrepreneurial Spirit!
+# <img src="/assets/potato.gif" width="50px" align="bottom"> Aspiring Software Developer
 - 🔭 I’m currently a B.Tech CSE Student<br>
 - 🌱 Learning my way around AIML & Software Development<br>
 - 📫 Enthusiastic for Tech, Science, Space & Art<br>
