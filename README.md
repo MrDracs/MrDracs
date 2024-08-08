@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <img src="/assets/potato.gif">💫 About Me:
 - 🔭 I’m currently a B.Tech CSE Student<br>
 - 🌱 Learning my way around AIML & Software Development<br>
 - 📫 Enthusiastic for Tech, Science, Space & Art<br>
