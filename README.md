@@ -16,11 +16,9 @@
 
 ## 📊 GitHub Stats:
 <center>
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=MrDracs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDracs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41.5%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDracs&theme=github_dark&hide_border=false" width="58%"/>
-<br/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDracs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41.5%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDracs&theme=github_dark&hide_border=false" width="58%"/>
+</p>
 <img src="https://stats.quira.sh/MrDracs/topics-over-time?theme=dark" width="100%"/>
 <br/>
 
